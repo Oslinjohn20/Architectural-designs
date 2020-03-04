@@ -1,0 +1,10 @@
+Presentation Abstraction Control in relation to MVC and HMVC highlighting its
+major strength and loopholes.
+
+PAC are similar to MVC, as it separates an interactuve system into three types of components responsible for specific aspects of the application's functionality.
+With regards to the HMVC the PAC is similar as it is an architectural pattern.
+The major strengths in these controllers is that it seperates the functional layer and the director of the activities in response to the user.
+When it comes to the HMVC is that it has the capabilities to handle complex data management.
+
+PAC loopholes in relation to the HMVC is in its complexity and a number of traids can negate advantages of splitting the application.
+In relation with MVC, the PAC has the similarities as the framework navigation can be complex as it introduce new layers of indirection and requires the user to adapt to understanding. Scattering occurs because of the decompostion in 3 artifacts, so constant maintance is required by developer 
